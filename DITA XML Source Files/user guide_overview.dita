@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_n3n_z33_4fc">
+    <title>How to Manage your Newsletter on Notion</title>
+    <body>
+        <section id="section_c1d_qj3_4fc">
+            <title>Overview</title>
+            <p>Starting a newsletter can be both exciting and overwhelming. Whether you’re a writer
+                or content creator, learn how to use Notion to structue the way you manage every
+                stage of this process.</p>
+            <p>This guide covers:</p>
+            <ol id="ol_d1d_qj3_4fc">
+                <li>Setting Up Your Writer Profile and Goals</li>
+                <li>Capturing and Organizing Ideas</li>
+                <li>Building a Repeatable Writing Process</li>
+                <li>Managing a Content Calendar</li>
+            </ol>
+        </section>
+        <section id="section_e1d_qj3_4fc">
+            <title>1. Setting Up Your Writer Profile and Goals</title>
+            <p>Create a foundation for your newsletter content in Notion.</p>
+            <p>Answer the following questions:</p>
+            <ol id="ol_f1d_qj3_4fc">
+                <li>Why are you writing this newsletter?</li>
+                <li>Who is your audience?</li>
+                <li>What is your niche?</li>
+                <li>What is the goal of your newsletter? What do you want your readers to feel,
+                    learn, or take away?</li>
+            </ol>
+            <p>Create a new notion page. Define your motivation, identity and goals.</p>
+            <p><fig id="fig_evz_rk3_4fc">
+                    <title>Figure 1: Sample North Star page on Notion with motivation, identity, and
+                        goals.</title>
+                    <image placement="inline" href="userguide_profile%20and%20goals.png"
+                        id="image_fvz_rk3_4fc"/>
+                </fig>You will have a personal dashboard that reflects your writing goals and
+                identity.</p>
+        </section>
+        <section id="section_h1d_qj3_4fc">
+            <title>2. Capturing and organizing ideas</title>
+            <p>Every content piece starts with an idea.</p>
+            <p>Follow these steps to capture ideas, edit them into working drafts, and publish the
+                pieces:</p>
+            <ol id="ol_i1d_qj3_4fc">
+                <li>Create a Notion page for capturing ideas.</li>
+                <li>Press ‘-’ and hit <i>spacebar</i> to create a new bullet - each bullet you type
+                    out is a new idea.</li>
+                <li>If you decide to work on an idea, <xref
+                        href="https://www.notion.com/help/guides/transforming-content-blocks-in-notion"
+                        format="html" scope="external">convert the bullet to a page</xref>.</li>
+            </ol>
+            <p>Watch this <xref
+                    href="https://www.loom.com/share/5d3430d35e1946a993da8aad1a46dd3e?sid=099e1325-202e-4769-b899-054bd5060bb1"
+                    format="html" scope="external">video</xref> to learn how to put this two-step
+                process into action.</p>
+            <p>Your workflow to capture your ideas is ready!</p>
+            <p>&lt;aside> 💡</p>
+            <p><b>Tip:</b> Use Notion’s mobile widget for quick idea capture when you’re away from
+                your desk.</p>
+            <p>&lt;/aside></p>
+        </section>
+        <section id="section_j1d_qj3_4fc">
+            <title>3. Building a repeatable writing process</title>
+            <lq id="lq_k1d_qj3_4fc">
+                <p>You fall to the level of your systems, not your goals - Unknown.</p>
+            </lq>
+            <p>Use a Kanban board in Notion to systematize content creation.</p>
+            <p>Follow these steps to build a consistent writing process:</p>
+            <ol id="ol_l1d_qj3_4fc">
+                <li>Create a new page for Planning.</li>
+                <li>Import this <xref
+                        href="https://www.notion.so/marketplace/templates/task-management-kanban?cr=cre%253Amrpugo"
+                        format="html" scope="external">template</xref> onto your page.</li>
+                <li>Customize with additional metadata like deadlines or publishing dates.</li>
+            </ol>
+            <p>Your Kanban planner is now ready.</p>
+            <p>xx</p>
+            <p>Sample Newsletter Planner with Ideas, Status and Publication Date.</p>
+            <p>By following a repeatable writing process, you will build a sustainable writing
+                habit.</p>
+        </section>
+        <section id="section_n1d_qj3_4fc">
+            <title>4. Managing a content calendar</title>
+            <p>Set up a Notion calendar to plan and track publishing dates.</p>
+            <p>Follow these steps to setup a “Calendar View” from your Kanban board:</p>
+            <ol id="ol_o1d_qj3_4fc">
+                <li>Next to ‘Board view’ on your Newletter Planner page, click on the “+”
+                    button.</li>
+                <li>Select “Calendar View” as your type.</li>
+                <li>View existing tasks with “Publication Date” or Add new</li>
+            </ol>
+            <p>xx</p>
+            <p>Example Content Calendar.</p>
+            <p>Quickly switch between board and calendar views depending on what you’re looking
+                for.</p>
+            <p>Your Newsletter workflow on Notion is now ready.</p>
+        </section>
+    </body>
+</topic>

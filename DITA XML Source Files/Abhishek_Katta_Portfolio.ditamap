@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Abhishek Katta: Technical Content Portfolio</title>
+    <topichead navtitle="User Guide">
+        <topicref href="user%20guide_newsletter_on_notion.dita"/>
+    </topichead>
+    <topichead navtitle="Primer">
+        <topicref href="introduction%20to%20container%20data%20centers.dita"/>
+    </topichead>
+    <topichead navtitle="Release Note">
+        <topicref href="clientrelease_1a.dita"/>
+    </topichead>
+</map>

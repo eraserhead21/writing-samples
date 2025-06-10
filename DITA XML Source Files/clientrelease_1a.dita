@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_upz_mrj_4fc">
+    <title>Feature Updates</title>
+    <body>
+        <p><i>7th March 2023</i></p>
+        <ol id="ol_pns_trj_4fc">
+            <li>
+                <table id="table_lqf_ttt_pfc" colsep="1" rowsep="1" frame="all">
+                    <tgroup cols="2">
+                        <colspec colnum="1" colname="c1" colwidth="176px" colsep="1" rowsep="1"
+                            align="center"/>
+                        <colspec colnum="2" colname="c2" colwidth="387px" rowsep="1" colsep="1"
+                            align="center"/>
+                        <thead>
+                            <row valign="middle">
+                                <entry colsep="1" rowsep="1"><b>Feature</b></entry>
+                                <entry colsep="1" rowsep="1"><b>Summary</b></entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row valign="middle">
+                                <entry>Weather API</entry>
+                                <entry>
+                                    <p>Completed full integration with ABC API.</p>
+                                </entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+                <p><image placement="inline" href="clientrelease_AQI.png" width="5in"
+                        id="image_uv4_pj5_pfc"/></p>
+                <p><b>Key Benefits</b></p>
+                <ol id="ol_shh_szj_4fc">
+                    <li>
+                        <p>Air quality metrics: AQI, PM10, PM2.5, NO2, SO2, CO, O3, NH3, NO and
+                            pollen level.</p>
+                    </li>
+                    <li>
+                        <p>Atmospheric conditions: Temperature, Humidity, Wind Gusts, Wind Speed,
+                            Wind Direction.</p>
+                        <p/>
+                        <p/>
+                    </li>
+                </ol>
+            </li>
+            <li>
+                <p>
+                    <table colsep="1" rowsep="1" frame="all" id="table_ug2_dwt_pfc">
+                        <tgroup cols="2">
+                            <colspec colnum="1" colname="c1" colwidth="176px" colsep="1" rowsep="1"
+                                align="center"/>
+                            <colspec colnum="2" colname="c2" colwidth="387px" colsep="1" rowsep="1"
+                                align="center"/>
+                            <thead>
+                                <row valign="middle">
+                                    <entry><b>Feature</b></entry>
+                                    <entry><b>Summary</b></entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>Table Widget</entry>
+                                    <entry>Parameters can now be tracked at an equipment
+                                        level.</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </p>
+                <p><image href="clientrelease_table.jpg" width="2.5in" id="image_vg2_dwt_pfc"/></p>
+                <p><b>Key Benefits</b></p>
+                <ol id="ol_wg2_dwt_pfc">
+                    <li>
+                        <p>Users can now track On, Idle and Off time for each piece of
+                            equipment.</p>
+                    </li>
+                    <li>
+                        <p>Users can customize parameters and ranges based on client needs.</p>
+                    </li>
+                </ol>
+            </li>
+            <li>
+                <p>
+                    <table id="table_c3n_ytt_pfc" colsep="1" rowsep="1" frame="all">
+                        <tgroup cols="2">
+                            <colspec colnum="1" colname="c1" colwidth="176px" colsep="1" rowsep="1"
+                                align="center"/>
+                            <colspec colnum="2" colname="c2" colwidth="387px" colsep="1" rowsep="1"
+                                align="center"/>
+                            <thead>
+                                <row valign="middle">
+                                    <entry><b>Feature</b></entry>
+                                    <entry><b>Summary</b></entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>Carbon Intensity API</entry>
+                                    <entry>UK regional Carbon Intensity forecast. </entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </p>
+                <p><image href="clientrelease_carbonintensity.jpg" id="image_ic1_kxj_4fc"
+                        width="5in"/></p>
+                <p><b>Key Benefits</b></p>
+                <ol id="ol_qyl_b1k_4fc">
+                    <li>Forecasts carbon intensity and generation mix 96+ hours ahead for each of
+                        the 14 geographical regions in Great Britain.</li>
+                    <li>
+                        <p>Clients can now schedule and minimise CO2 emissions at regional
+                            level.</p>
+                    </li>
+                    <li>
+                        <p>Includes emissions from all large-metered power stations, interconnector
+                            imports, and transmission &amp; distribution losses.</p>
+                    </li>
+                    <li>
+                        <p>Powered by state-of-the-art machine learning and sophisticated power
+                            system modelling.</p>
+                    </li>
+                    <li>
+                        <p>Applies to electricity generation only. Accounts for national electricity
+                            demand, embedded wind, and solar generation.</p>
+                    </li>
+                </ol>
+            </li>
+        </ol>
+    </body>
+</topic>

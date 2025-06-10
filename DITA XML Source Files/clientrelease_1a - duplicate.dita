@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="clientrelease_1a_duplicate">
+    <title>Feature Updates</title>
+    <body>
+        <p><i>7th March 2023</i></p>
+        <ol id="ol_pns_trj_4fc">
+            <li><b>Feature: </b>Weather API<p><b>Status: </b>Completed full integration with ABC
+                    API.</p><p><image placement="inline" href="clientrelease_AQI.jpg" width="5in"
+                        id="image_rqn_5b5_pfc"/></p><p><b>What's new?</b></p><ol id="ol_shh_szj_4fc">
+                    <li>
+                        <p>Air quality metrics: AQI, PM10, PM2.5, NO2, SO2, CO, O3, NH3, NO and
+                            pollen level.</p>
+                    </li>
+                    <li>
+                        <p>Atmospheric conditions: Temperature, Humidity, Wind Gusts, Wind Speed,
+                            Wind Direction.</p>
+                        <p/>
+                        <p/>
+                    </li>
+                </ol></li>
+            <li><b>Feature: </b>Table Widget<p><b>Status: </b>Parameters can now be tracked at an
+                    equipment level.</p><p><image href="clientrelease_table.jpg"
+                        id="image_fnm_hxj_4fc" width="3in"/></p><p><b>What's new? </b></p><ol
+                    id="ol_igk_h1k_4fc">
+                    <li>
+                        <p>Users can now track On, Idle and Off time for each piece of
+                            equipment.</p>
+                    </li>
+                    <li>
+                        <p>Users can customize parameters and ranges based on client needs.</p>
+                        <p/>
+                        <p/>
+                    </li>
+                </ol></li>
+            <li>
+                <p><b>Feature: </b>Carbon Intensity API</p>
+                <p><b>Status: </b>Completed API integration with UK regional Carbon Intensity
+                    forecast. </p>
+                <p><image href="clientrelease_carbonintensity.jpg" id="image_ic1_kxj_4fc"
+                        width="5in"/></p>
+                <p><b>What's new?</b></p>
+                <ol id="ol_qyl_b1k_4fc">
+                    <li>Forecasts carbon intensity and generation mix 96+ hours ahead for each of
+                        the 14 geographical regions in Great Britain.</li>
+                    <li>
+                        <p>Clients can now schedule and minimise CO2 emissions at regional
+                            level.</p>
+                    </li>
+                    <li>
+                        <p>Powered by state-of-the-art machine learning and sophisticated power
+                            system modelling.</p>
+                    </li>
+                    <li>
+                        <p>Applies to electricity generation only. Accounts for national electricity
+                            demand, embedded wind, and solar generation.</p>
+                    </li>
+                    <li>
+                        <p>Includes emissions from all large-metered power stations, interconnector
+                            imports, transmission and distribution losses.</p>
+                    </li>
+                </ol>
+            </li>
+        </ol>
+    </body>
+</topic>

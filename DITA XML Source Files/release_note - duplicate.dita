@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="release_note_duplicate">
+    <title>Bug Fix Summary</title>
+    <body>
+        <p><b> </b><i>26th June, 2023</i></p>
+        <p/>
+        <p><b> A. Business Impact: Bugs Impacting Value Delivery</b></p>
+        <p> The following points have been released to streamline the gaps in value delivery to the
+            client:</p>
+        <ol id="ol_vsc_zkj_4fc">
+            <li>
+                <p>Asset Insight – Insight Graph Threshold Issue: <table frame="all" rowsep="1"
+                        colsep="1" id="table_lnl_d4j_4fc">
+                        <tgroup cols="2">
+                            <colspec colnum="1" colwidth="176px" colname="col1"/>
+                            <colspec colnum="2" colwidth="387px" colname="col2"/>
+                            <thead>
+                                <row>
+                                    <entry><b>Attribute</b></entry>
+                                    <entry><b>Value</b></entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>Issue Description</entry>
+                                    <entry>Users cannot visualize the threshold in the Insight
+                                        Graph.</entry>
+                                </row>
+                                <row>
+                                    <entry>Solution Impact</entry>
+                                    <entry>The insight graph now displays a threshold line after
+                                        clicking on a red dot for specific days.</entry>
+                                </row>
+                                <row>
+                                    <entry>Impacted Client</entry>
+                                    <entry>All</entry>
+                                </row>
+                                <row>
+                                    <entry>Jira ID</entry>
+                                    <entry>ISSUES-161</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table></p>
+            </li>
+            <li>
+                <p>Asset Insight – Live Data Threshold Issue:</p>
+                <p>
+                    <table frame="all" rowsep="1" colsep="1" id="table_dgr_t4j_4fc">
+                        <tgroup cols="2">
+                            <colspec colnum="1" colwidth="176px" colname="col1"/>
+                            <colspec colnum="2" colwidth="387px" colname="col2"/>
+                            <thead>
+                                <row>
+                                    <entry>Attribute</entry>
+                                    <entry>Value</entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>Issue Description</entry>
+                                    <entry>Users unable to set threshold values in asset monitoring.
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>Solution Impact</entry>
+                                    <entry>Users can now set both lower and upper threshold values
+                                        on the Live data widget in Asset for effective asset
+                                        management.</entry>
+                                </row>
+                                <row>
+                                    <entry>Impacted Client</entry>
+                                    <entry>xxx</entry>
+                                </row>
+                                <row>
+                                    <entry>Jira ID</entry>
+                                    <entry>ISSUES-93</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </p>
+            </li>
+            <li>
+                <p>Sustainability – Energy Consumption Mix Readability Issue:</p>
+                <p>
+                    <table frame="all" rowsep="1" colsep="1" id="table_ock_w4j_4fc">
+                        <tgroup cols="2">
+                            <colspec colnum="1" colwidth="176px" colname="col1"/>
+                            <colspec colnum="2" colwidth="387px" colname="col2"/>
+                            <thead>
+                                <row>
+                                    <entry>Attribute</entry>
+                                    <entry>Value</entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>Issue Description</entry>
+                                    <entry>
+                                        <p>Users unable to identify exact values on the pie chart
+                                            visualization when values are &lt;10%.</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>Solution Impact</entry>
+                                    <entry>
+                                        <p>Users can now see values in a more readable format on the
+                                            pie chart visualization.</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>Impacted Client</entry>
+                                    <entry>yyy</entry>
+                                </row>
+                                <row>
+                                    <entry>Jira ID</entry>
+                                    <entry>ISSUES-82</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </p>
+            </li>
+            <li>
+                <p>Sustainability – Common Calendar Missing:</p>
+                <p>
+                    <table frame="all" rowsep="1" colsep="1" id="table_q21_z4j_4fc">
+                        <tgroup cols="2">
+                            <colspec colnum="1" colwidth="176px" colname="col1"/>
+                            <colspec colnum="2" colwidth="387px" colname="col2"/>
+                            <thead>
+                                <row>
+                                    <entry>Attribute</entry>
+                                    <entry>Value</entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>Issue Description</entry>
+                                    <entry>
+                                        <p>The sustainability module does not have a common
+                                            calendar.</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>Solution Impact</entry>
+                                    <entry>
+                                        <p>Users can access the calendar feature in the
+                                            sustainability module for better coordination and
+                                            activity tracking.</p>
+                                    </entry>
+                                </row>
+                                <row>
+                                    <entry>Impacted Client</entry>
+                                    <entry>All</entry>
+                                </row>
+                                <row>
+                                    <entry>Jira ID</entry>
+                                    <entry>ENGG-268</entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </p>
+            </li>
+        </ol>
+        <p/>
+        <p>
+            <b>B. Business Impact: User Experience Enhancements</b></p>
+        <p>The following enhancements have been implemented to improve the product user experience
+            (UX).</p>
+        <p>
+            <ol id="ol_lcf_bqj_4fc">
+                <li>Asset Insight – Insight Graph:<ol id="ol_ipn_1qj_4fc">
+                        <li>Users can now see the Y-Axis values on both the primary and secondary Y
+                            axes on the Asset insight graph.</li>
+                        <li>Impacted Client: All</li>
+                        <li>Jira ID: ISSUES-75</li>
+                    </ol></li>
+            </ol>
+        </p>
+    </body>
+</topic>

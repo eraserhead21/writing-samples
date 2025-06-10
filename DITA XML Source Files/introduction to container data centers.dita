@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_prg_jmt_pfc">
+    <title>Introduction to Container Data Centers</title>
+    <conbody>
+        <p><b>Summary</b></p>
+        <p>A container data center is a self-contained, portable computing facility built into a
+            standard shipping container or similar modular enclosure. They offer a cost-effective
+            and flexible approach to deploying infrastructure in diverse environments—ranging from
+            edge computing sites and remote industrial operations to temporary or disaster recovery
+            locations. </p>
+        <p>Figure 1: Benefits and features of container data centers.</p>
+        <p><image placement="inline" href="primer_key_features.png" width="3in"
+                id="image_ght_cd5_pfc"/></p>
+        <p><b>Example</b></p>
+        <p>A telecom company needs to expand 5G coverage in a remote area. Instead of building a new
+            data center, they deploy a container data center on-site. Delivered by truck and
+            operational within hours, it provides local computing power and reduces latency—offering
+            a fast, cost-effective solution.</p>
+    </conbody>
+</concept>
